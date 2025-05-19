@@ -44,10 +44,8 @@ A server-side rendering car listing application built with Next.js that allows u
 
 2. Install dependencies:
    \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
+   npm install --legacy-peer-deps
+  
 
 3. Run the development server:
    \`\`\`bash
